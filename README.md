@@ -1,5 +1,22 @@
 # OmniVoice 🌍
 
+> **Fork notice (PepegaSan)**  
+> This repository is a **modified fork** of [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice),
+> licensed under [Apache-2.0](LICENSE). It is **not** the official upstream project.  
+> **Changes in this fork:** [CHANGELOG.md](CHANGELOG.md) · **Attribution:** [NOTICE](NOTICE)
+
+### Fork additions (Windows-friendly Web UI)
+
+| File | Purpose |
+|---|---|
+| `install.bat` | Install venv, PyTorch (CUDA), and OmniVoice |
+| `start_simple_webui.bat` | German simple UI (`simple_webui.py`) |
+| `start_webui.bat` | Official Gradio demo (`omnivoice-demo`) |
+
+After install, double-click `start_simple_webui.bat` → open http://localhost:7860
+
+---
+
 <p align="center">
   <img width="200" height="200" alt="OmniVoice" src="https://zhu-han.github.io/omnivoice/pics/omnivoice.jpg" />
 </p>

@@ -1,0 +1,15 @@
+OmniVoice — PepegaSan Fork
+Copyright 2026 PepegaSan
+
+This product is a derivative work based on OmniVoice:
+  https://github.com/k2-fsa/OmniVoice
+  Copyright contributors to k2-fsa/OmniVoice (Xiaomi Corp.)
+
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at:
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Modifications by PepegaSan are documented in CHANGELOG.md.
+
+This fork is not affiliated with, endorsed by, or maintained by Xiaomi Corp.
+or the k2-fsa organization.
